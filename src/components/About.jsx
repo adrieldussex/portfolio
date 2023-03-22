@@ -1,7 +1,11 @@
+// https://png.pngtree.com/background/20220731/original/pngtree-red-texture-line-and-black-picture-image_1909889.jpg
+
+// https://static.wixstatic.com/media/f8eba5_460d0bdab99f487188a17916c22a9abe~mv2.jpg/v1/fill/w_952,h_1050,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f8eba5_460d0bdab99f487188a17916c22a9abe~mv2.jpg
+
 export default function About() {
     return (
-        <div className="bg-red-500 w-full h-screen flex justify-center items-center">
-            <div className="bg-[url('https://static.wixstatic.com/media/f8eba5_460d0bdab99f487188a17916c22a9abe~mv2.jpg/v1/fill/w_952,h_1050,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f8eba5_460d0bdab99f487188a17916c22a9abe~mv2.jpg')] bg-zinc-300 w-1/2 h-full flex justify-center items-center">
+        <div className="w-full h-screen flex justify-center items-center">
+            <div className="bg-[url('https://png.pngtree.com/background/20220731/original/pngtree-red-texture-line-and-black-picture-image_1909889.jpg')] bg-center bg-zinc-300 w-1/2 h-full flex justify-center items-center">
                 <div className="h-2/3 w-1/2 bg-neutral-900"></div>
             </div>
             <div className="text-zinc-100 text-start flex flex-col justify-center items-center bg-neutral-900 w-1/2 h-full">

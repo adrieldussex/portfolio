@@ -37,7 +37,7 @@ export default function Skills() {
         <div className="h-screen w-full flex justify-center items-center bg-neutral-900">
             <div className="h-5/6 w-1/2 bg-neutral-800 flex justify-end items-center text-zinc-100">
                 <div className="h-3/4 w-3/4 text-4xl font-semibold flex flex-col justify-center">
-                    <h2 className="text-lime-500">Habilidades</h2>
+                    <h2 className="text-rose-600">Habilidades</h2>
                     <ul className="mt-6 text-xl font-normal flex flex-col gap-2">
                         <li>Illustrator</li>
                         <div className="w-3/5 bg-cyan-400 h-2 mb-4 rounded-md" />
@@ -46,7 +46,7 @@ export default function Skills() {
                         <li>Figma</li>
                         <div className="w-2/5 bg-cyan-400 h-2 mb-4 rounded-md" />
                     </ul>
-                    <h2 className="text-lime-500 mt-4">Habilidades Blandas</h2>
+                    <h2 className="text-rose-600 mt-4">Habilidades Blandas</h2>
                     <ul className="mt-6 text-xl font-normal">
                         <li>Liderazgo</li>
                         <li>Comunicación activa</li>

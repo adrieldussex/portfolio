@@ -40,3 +40,12 @@
     transform: rotate(360deg);
   }
 }
+
+body::-webkit-scrollbar{
+  width: 12px;
+  background-color: #232323;
+}
+body::-webkit-scrollbar-thumb{
+  background: #BEF202;
+  border-radius: 50px;
+}
